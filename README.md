@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 
-## 
-`https://prostobronik.github.io/Movie-Search-Portal/`
+## https://prostobronik.github.io/Movie-Search-Portal/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
